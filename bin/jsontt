@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+process.title = 'JSON Dil Çevirici';
+const { runCli } = require('../dist/index');
+runCli();
