@@ -1,13 +1,13 @@
-## Supported languages 🏆
+# Supported languages 🏆
 
 **json-translate** package supports 100+ languages. Also, it can detect and translate to the target language if you mark the source language as `Automatic`.
 
-## Installation
-# Clone Repository
+### Installation
+## Clone Repository
 `git clone https://github.com/ahmet-sakar/json-translate`
-# Build package
+## Build package
 `npm run build`
-# Run
+## Run
 `jsontt <path/file.json>` or `npm run start <path/file.json>`
 
 ## Supported Languages
