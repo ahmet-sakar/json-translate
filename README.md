@@ -1,6 +1,6 @@
 ## Supported languages 🏆
 
-**json-translator** package supports 100+ languages. Also, it can detect and translate to the target language if you mark the source language as `Automatic`.
+**json-translate** package supports 100+ languages. Also, it can detect and translate to the target language if you mark the source language as `Automatic`.
 
 ## Supported Languages
 
